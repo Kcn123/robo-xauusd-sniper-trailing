@@ -2,7 +2,7 @@
 
 Robô automático desenvolvido em Python para o par XAUUSD no MetaTrader 5, com foco em proteção de capital, automação de entradas e gestão ativa de lucro.
 
-O projeto foi desenvolvido como estudo aplicado de automação financeira, controle de risco e análise técnica, conectando experiência no mercado financeiro com desenvolvimento em Python.
+O projeto foi desenvolvido como estudo aplicado de automação financeira, controle de risco e análise técnica, conectando minha experiência no mercado financeiro com o desenvolvimento em Python.
 
 ---
 
