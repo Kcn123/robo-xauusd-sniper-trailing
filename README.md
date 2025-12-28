@@ -83,7 +83,6 @@ por meio do script de exportação incluído no projeto.
 Eles registram:
 
 - execuções de ordens
-- posições
 - deals / resultados
 - logs operacionais
 
