@@ -158,5 +158,13 @@ Interesses profissionais:
 
 Caso tenha interesse em conversar sobre o projeto:
 
-- Aberto a oportunidades de estágio / trainee / entry-level
-- Interesse em atuar com Python, automação e dados
+Aberto a oportunidades como:
+- Estagiário
+- Assistente
+- Analista Júnior
+
+Com interesse em atuar com:
+- Python
+- automação de processos
+- dados e análise aplicada ao mercado financeiro
+
