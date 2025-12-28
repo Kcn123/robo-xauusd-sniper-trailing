@@ -41,24 +41,22 @@ O foco é o aprendizado prático em:
 
 .
 ├── core/ # código principal do robô
-│ ├── utils/ # funções auxiliares e suporte
+│ ├── utils/ # funções auxiliares
 │ └── sinal_xauusd_trailing_v3_antiflood_final.py
 │
-├── data/ # dados exportados do MT5 e logs do robô
+├── data/ # dados exportados do MT5
 │ ├── historico_trades_mt5_deals.csv
 │ ├── historico_trades_mt5_orders.csv
 │ └── historico_trades_mt5_positions.csv
 │
-├── analytics/ # módulo de análise e painel Streamlit
+├── analytics/ # painel de análise Streamlit
 │ └── streamlit_mt5.py
 │
-├── utils/ # scripts de extração e apoio
+├── utils/ # scripts de apoio
 │ └── extrair_relatorios_mt5.py
 │
-└── requirements.txt # dependências do projeto
-
-yaml
-Copiar código
+├── requirements.txt # dependências do projeto
+└── README.md
 
 ---
 
