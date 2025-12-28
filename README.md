@@ -113,8 +113,6 @@ Executando:
 
 streamlit run analytics/streamlit_mt5.py
 
-yaml
-Copiar código
 
 ---
 
@@ -131,15 +129,11 @@ Instalar dependências:
 
 pip install -r requirements.txt
 
-nginx
-Copiar código
 
 Executar robô:
 
 python core/sinal_xauusd_trailing_v3_antiflood_final.py
 
-yaml
-Copiar código
 
 ---
 
