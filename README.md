@@ -39,7 +39,6 @@ O foco é o aprendizado prático em:
 
 ## 🧩 Arquitetura do projeto
 
-.
 ├── core/ # código principal do robô
 │ ├── utils/ # funções auxiliares
 │ └── sinal_xauusd_trailing_v3_antiflood_final.py
