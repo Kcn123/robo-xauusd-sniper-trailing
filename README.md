@@ -116,7 +116,8 @@ streamlit run analytics/streamlit_mt5.py
 
 ---
 
-## 🚀 Como executar o robô
+## 🤖 Como executar o robô
+
 
 Pré-requisitos:
 
