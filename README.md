@@ -157,15 +157,17 @@ Interesses profissionais:
 
 ## 📬 Contato
 
-Caso tenha interesse em conversar sobre o projeto:
-
 Aberto a oportunidades como:
 - Estagiário
 - Assistente
 - Analista Júnior
 
-Com interesse em atuar com:
-- Python
-- automação de processos
-- dados e análise aplicada ao mercado financeiro
+Áreas de interesse:
+- Python e automação
+- análise de dados aplicada a finanças
+- tecnologia e processos no mercado financeiro
+
+🔗 LinkedIn: https://www.linkedin.com/in/kleverson-nunes-604a2777  
+📩 E-mail: kc-kcn@hotmail.com
+
 
