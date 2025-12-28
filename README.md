@@ -46,9 +46,8 @@ O foco é o aprendizado prático em:
 │
 ├── data/                     # dados exportados do MT5
 │   ├── historico_trades_mt5_deals.csv
-│   ├── historico_trades_mt5_orders.csv
-│   └── historico_trades_mt5_positions.csv
-│
+│   └── historico_trades_mt5_orders.csv
+│   
 ├── analytics/                # painel de análise Streamlit
 │   └── streamlit_mt5.py
 │
